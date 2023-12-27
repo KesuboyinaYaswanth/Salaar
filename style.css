@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'vipna'; /* Choose a name for your font */
-    src: url('/Internal storage/Download/ vipnagorgialla/vipnagorgialla bd.otf'); /* Specify the path and format of your font file */
+    src: url('vipnagorgialla bd.otf'); /* Specify the path and format of your font file */
 }
 
 body {
